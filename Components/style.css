@@ -1,0 +1,92 @@
+/* lista estudante */
+#foto-list-tabela{
+    width: 20%;
+}
+@media only screen and (min-width: 300px) {
+ 
+    #img-list-tabela{
+        width: 100px;
+    }
+ 
+}
+@media only screen and (min-width: 300px) {
+ 
+    #img-detalhe-tabela{
+        width: 160px;
+    }
+ 
+}
+#th-tabela{
+    background-color: #314253;
+    color: #ffffff;
+}
+#icon-list-tabela{
+    font-size: 18pt;
+}
+#icon-del-tabela{
+    margin-left: 30%;
+    font-size: 18pt;
+}
+#td-list-acao-estud{
+     width: 10%;
+}
+#menu-link{
+    color:  #314253;
+    font-size: 9pt;
+}
+#nome-informacao{
+    font-size: 11pt;
+}
+/* detalhe estudante */
+#foto-list-tabela-detalhe{
+    width: 30%;
+}
+#btn-acao-detalhe{
+   text-align: right;
+}
+#icon-delt-tabela{
+    margin-left: 5%;
+    font-size: 17pt;
+}
+#nome-img-detalhe{
+    font-size: 13pt;
+}
+#tamanho-modal{
+    width: 80%;
+    margin-left: 12%;
+}
+#posicao-modal{
+    margin-top: 10%;  
+}
+#pergunta-modal{
+    font-size: 13pt;
+}
+#btn-modal{
+    width: 35%;
+}
+/* cadastro estudante */
+#btn-cad{
+    width: 40%;
+}
+/* disciplina */
+#btn-acao-disc{
+    width: 20%;
+}
+/* detalhe frequencia */
+#infor-freq{
+    font-size: 11pt;
+}
+#icon-list-freq{
+     font-size: 17pt;
+}
+/* detalhe matricula */
+#btn-add-det-mat{
+    margin-top: -5%;
+}
+#btn-acao-matric{
+    width: 20%;
+}
+#icon-del-freq{
+    margin-left: 30%;
+     font-size: 17pt;
+}
